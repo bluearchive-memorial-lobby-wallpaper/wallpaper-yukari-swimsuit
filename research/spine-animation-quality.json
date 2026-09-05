@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T04:10:47.950Z",
+  "runtimePath": "D:\\project\\wallpaper-engine\\blue-archive\\wallpaper-yukari-swimsuit\\public\\vendor\\spine-webgl-4.2.js",
+  "source": {
+    "skeleton": "local-assets/original/model/my-character.skel",
+    "atlas": "local-assets/original/model/my-character.atlas",
+    "skeletonBytes": 1279866,
+    "atlasBytes": 11574,
+    "spineVersion": "4.2.33"
+  },
+  "skeleton": {
+    "width": 5153.2822265625,
+    "height": 2944.895751953125,
+    "animations": 20
+  },
+  "animations": [
+    {
+      "name": "Dummy",
+      "duration": 0.03333333507180214,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Idle_01",
+      "duration": 24.000001907348633,
+      "backgroundEffectTranslateTimelines": 45
+    },
+    {
+      "name": "LookEnd_01_A",
+      "duration": 0.6666666865348816,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "LookEnd_01_M",
+      "duration": 0.6666666865348816,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Look_01_M",
+      "duration": 0.3333333432674408,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "PatEnd_01_A",
+      "duration": 1,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "PatEnd_01_M",
+      "duration": 1,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_01_A",
+      "duration": 0.3333333432674408,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_01_M",
+      "duration": 0.3333333432674408,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Start_Idle_01",
+      "duration": 19.500001907348633,
+      "backgroundEffectTranslateTimelines": 64
+    },
+    {
+      "name": "Talk_01_A",
+      "duration": 11.666666984558105,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_01_M",
+      "duration": 11.666666984558105,
+      "backgroundEffectTranslateTimelines": 8
+    },
+    {
+      "name": "Talk_02_A",
+      "duration": 17.83333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_02_M",
+      "duration": 17.83333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_03_A",
+      "duration": 21.666667938232422,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_03_M",
+      "duration": 21.666667938232422,
+      "backgroundEffectTranslateTimelines": 8
+    },
+    {
+      "name": "Talk_04_A",
+      "duration": 18.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_04_M",
+      "duration": 18.33333396911621,
+      "backgroundEffectTranslateTimelines": 8
+    },
+    {
+      "name": "Talk_05_A",
+      "duration": 16.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_05_M",
+      "duration": 16.33333396911621,
+      "backgroundEffectTranslateTimelines": 8
+    }
+  ],
+  "violations": [
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "error",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_1",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          -947.59228515625,
+          1111.042236328125
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 6.133333206176758,
+      "normalizedSpeed": 7.380670336643538
+    },
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "error",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_82",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          1361.828857421875,
+          971.5604248046875
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 6.133333206176758,
+      "normalizedSpeed": 8.45532310532339
+    },
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "error",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_2",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          1035.578125,
+          971.5555419921875
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 10.800000429153442,
+      "normalizedSpeed": 7.177101582877066
+    },
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "error",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_14",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          -944.74609375,
+          1052.5977783203125
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 6.133333206176758,
+      "normalizedSpeed": 7.148864033974906
+    },
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "error",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_87",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          1361.828857421875,
+          971.5604248046875
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 6.133333206176758,
+      "normalizedSpeed": 8.45532310532339
+    }
+  ],
+  "ignoredViolations": [
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "info",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_1",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          -947.59228515625,
+          1111.042236328125
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 6.133333206176758,
+      "normalizedSpeed": 7.380670336643538,
+      "reason": "intro_effect_timeline_exit"
+    },
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "info",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_82",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          1361.828857421875,
+          971.5604248046875
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 6.133333206176758,
+      "normalizedSpeed": 8.45532310532339,
+      "reason": "intro_effect_timeline_exit"
+    },
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "info",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_2",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          1035.578125,
+          971.5555419921875
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 10.800000429153442,
+      "normalizedSpeed": 7.177101582877066,
+      "reason": "intro_effect_timeline_exit"
+    },
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "info",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_14",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          -944.74609375,
+          1052.5977783203125
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 6.133333206176758,
+      "normalizedSpeed": 7.148864033974906,
+      "reason": "intro_effect_timeline_exit"
+    },
+    {
+      "code": "spine_animation_terminal_background_reset",
+      "severity": "info",
+      "animation": "Start_Idle_01",
+      "bone": "BG_Front_Bubble_01_87",
+      "duration": 19.500001907348633,
+      "timeline": "TranslateTimeline",
+      "previous": {
+        "time": 14.466667175292969,
+        "value": [
+          14.466667175292969,
+          1361.828857421875,
+          971.5604248046875
+        ]
+      },
+      "last": {
+        "time": 14.500000953674316,
+        "value": [
+          14.500000953674316,
+          0,
+          0
+        ]
+      },
+      "deltaSeconds": 0.033333778381347656,
+      "previousDeltaSeconds": 6.133333206176758,
+      "normalizedSpeed": 8.45532310532339,
+      "reason": "intro_effect_timeline_exit"
+    }
+  ],
+  "status": "passed"
+}
